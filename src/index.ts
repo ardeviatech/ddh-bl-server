@@ -14,6 +14,8 @@ const allowedOrigins = [
   "http://localhost:3000", // Client app
   "http://localhost:3001",
   "http://localhost:5174", // Alternative client port
+  "https://ddh-bl-registration.ardevia.tech",
+  "https://ddh-bl-admin.ardevia.tech"
 ];
 
 app.use(
